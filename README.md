@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="images.jpeg alt="Banner" width="100%" />
 </p>
 
 <h1 align="center"> Hey, I'm Md Nihon Mostari Siam</h1>

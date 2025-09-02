@@ -11,9 +11,9 @@
 ##  About Me
  Currently studying **Industrial Information Technology**  
  **LAB University of Applied Sciences**, Finland  
- Interested in **automation, embedded systems, industrial IoT, and smart factories**  
- Learning and practicing **C++**, **Python**, and **data-driven industrial solutions**  
- Exploring open-source and building my portfolio  
+ Interested in **automation, embedded systems, industrial IoT, programming**  
+ Learning and practicing **C++**, **Python**,**HTML** and some others.
+ 
 
 
 

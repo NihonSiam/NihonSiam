@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/NihonSiam/NihonSiam/blob/main/images.jpeg alt="Banner" width="100%" />
+  <img src="https://github.com/NihonSiam/NihonSiam/blob/304ef6a9595b95521741f0f177c0beeda105ed81/images.jpeg?alt="Banner" />
 </p>
 
 <h1 align="center"> Hey, I'm Md Nihon Mostari Siam</h1>

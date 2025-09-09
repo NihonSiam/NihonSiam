@@ -27,12 +27,6 @@
 
 
 
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NihonSiam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-
 
 ##  Connect With Me
 Email: *nihomsiam.personal@gmail.com*  

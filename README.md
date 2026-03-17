@@ -20,11 +20,10 @@ class NihonSiam:
         self.name       = "Md Nihon Mostari Siam"
         self.location   = "Helsinki, Finland"
         self.origin     = "Bangladesh"
-        self.education  = "B.Sc Industrial Information Technology @ LAB University"
+        self.education  = "B.Sc Industrial Information Technology @ LAB University Of Applied Science"
         self.languages  = ["Bangla (Native)", "English (Fluent)", "Hindi (Fluent)", "Urdu (Fluent)", "Finnish (Basics)"]
         self.interests  = ["Automation", "IoT", "Networking", "Software Dev"]
         self.currently  = "Studying & building cool stuff"
-        self.fun_fact   = "I went from 40C Bangladesh to -10C Finland!"
 
     def say_hi(self):
         print("Thanks for visiting! Feel free to connect :)")

@@ -18,16 +18,16 @@
 class NihonSiam:
     def __init__(self):
         self.name       = "Md Nihon Mostari Siam"
-        self.location   = "Helsinki, Finland 🇫🇮"
-        self.origin     = "Bangladesh 🇧🇩"
+        self.location   = "Helsinki, Finland"
+        self.origin     = "Bangladesh"
         self.education  = "B.Sc Industrial Information Technology @ LAB University"
-        self.languages  = ["Bangla 🇧🇩", "English 🇬🇧", "Hindi 🇮🇳", "Urdu 🇵🇰", "Finnish 🇫🇮"]
+        self.languages  = ["Bangla (Native)", "English (Fluent)", "Hindi (Fluent)", "Urdu (Fluent)", "Finnish (Basics)"]
         self.interests  = ["Automation", "IoT", "Networking", "Software Dev"]
-        self.currently  = "Studying & building cool stuff 🚀"
-        self.fun_fact   = "I went from 40°C Bangladesh to -10°C Finland 🥶"
+        self.currently  = "Studying & building cool stuff"
+        self.fun_fact   = "I went from 40C Bangladesh to -10C Finland!"
 
     def say_hi(self):
-        print("Thanks for visiting! Feel free to connect 😊")
+        print("Thanks for visiting! Feel free to connect :)")
 
 me = NihonSiam()
 me.say_hi()
